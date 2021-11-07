@@ -1,5 +1,5 @@
 # Git-Hub-Coursera
-this repository is used for the UNIX workbench coursera project \n
+this repository is used for the UNIX workbench coursera project 
 
 Title of the project: __Peer-graded Assignment: Bash, Make, Git, and GitHub__
 
